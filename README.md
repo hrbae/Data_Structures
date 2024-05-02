@@ -1,5 +1,5 @@
 # Data Structure and Algorithm
- <img src="https://img.shields.io/badge/TypeScript-F9AB00?style=flat&logo=TypeScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/googlecolab-#F9AB00?style=flat&logo=React&logoColor=white"/>
 데이터 구조 및 알고리즘 수업 실습 코드 
 ## (Week 2) Array max, Prime Number
 - Array max(배열 최댓값 찾기)
